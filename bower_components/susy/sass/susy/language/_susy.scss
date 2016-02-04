@@ -1,0 +1,24 @@
+// Susy Next Syntax
+// ================
+
+$susy-version: 2.1;
+
+@import "../../../..//susy/sass/susy/_su";
+@import "../../../..//susy/sass/susy/output/_float";
+
+@import "../../../..//susy/sass/susy/language/susy/_settings";
+@import "../../../..//susy/sass/susy/language/susy/_validation";
+@import "../../../..//susy/sass/susy/language/susy/_grids";
+@import "../../../..//susy/sass/susy/language/susy/_box-sizing";
+@import "../../../..//susy/sass/susy/language/susy/_context";
+@import "../../../..//susy/sass/susy/language/susy/_background";
+@import "../../../..//susy/sass/susy/language/susy/_container";
+@import "../../../..//susy/sass/susy/language/susy/_span";
+@import "../../../..//susy/sass/susy/language/susy/_gutters";
+@import "../../../..//susy/sass/susy/language/susy/_isolate";
+@import "../../../..//susy/sass/susy/language/susy/_gallery";
+@import "../../../..//susy/sass/susy/language/susy/_rows";
+@import "../../../..//susy/sass/susy/language/susy/_margins";
+@import "../../../..//susy/sass/susy/language/susy/_padding";
+@import "../../../..//susy/sass/susy/language/susy/_bleed";
+@import "../../../..//susy/sass/susy/language/susy/_breakpoint-plugin";

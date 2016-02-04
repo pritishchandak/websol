@@ -1,0 +1,24 @@
+{
+  "name": "websol",
+  "authors": [
+    "pritish.chandak@gmail.com"
+  ],
+  "description": "websol india pvt. ltd website design",
+  "main": "index.html",
+  "moduleType": [true],
+  "keywords": [
+    "angularjs",
+    "website"
+  ],
+  "license": "public",
+  "homepage": "index.html",
+  "private": true,
+  "dependencies": {
+    "jquery": "^2.2.0",
+    "font-awesome": "^4.5.0",
+    "angular": "^1.4.9",
+    "bootstrap": "^3.3.6",
+    "angular-route": "^1.4.9",
+    "susy": "^2.2.12"
+  }
+}
